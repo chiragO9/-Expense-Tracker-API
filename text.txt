@@ -1,0 +1,9 @@
+For creating virtual environment -> python -m venv fastapienv  First for environment.
+
+Important packages to download : 
+
+pip install fastapi
+pip install "uvicorn[standard]"
+
+
+to Deactivate environment : deactivate
