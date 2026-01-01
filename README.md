@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.109+-green.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 # 💰 Expense Tracker API
 
 A RESTful API for tracking personal income and expenses built with FastAPI and Python.
